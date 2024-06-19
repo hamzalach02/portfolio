@@ -103,6 +103,8 @@ and you can see a user profile and his jobffers and the job offers he'is interes
 ## Requirements
 To run this project, ensure you have the following:
 
--Spring Boot IDE (e.g., IntelliJ IDEA) for backend development.
--MySQL database (e.g., set up using Docker as described above).
--Node.js and yarn for frontend dependencies management and development.
+Spring Boot IDE (e.g., IntelliJ IDEA) for backend development.
+
+MySQL database (e.g., set up using Docker as described above).
+
+Node.js and yarn for frontend dependencies management and development.
