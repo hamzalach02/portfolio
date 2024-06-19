@@ -70,8 +70,11 @@ Navigate to the frontend directory and install dependencies:
 cd frontend
 ````
 
-
+install node_modules:
+````bash
 yarn install
+````
+
 Start the React development server:
 
 ````bash
@@ -85,5 +88,21 @@ Open your browser and go to http://localhost:3000 to access the login/signup int
 
 After successful login, you will see the home page displaying a list of job offers:
 ![home](https://github.com/hamzalach02/portfolio/assets/121760220/27591b1c-71d1-4e4f-9ef1-6c6e16ecaac4)
+you can interest to a job offer or create a job offer like : 
+![home2](https://github.com/hamzalach02/portfolio/assets/121760220/f3299fd0-5cf4-4f9c-b911-e6ae1db9fa44)
+you can see your progile and edit infos and password : 
+![profile](https://github.com/hamzalach02/portfolio/assets/121760220/2ea06f93-844a-46d6-ada2-2e36595f4238)
+![profile2](https://github.com/hamzalach02/portfolio/assets/121760220/7d216142-69a8-4826-87c5-69b994f2b8df)
+and you can see interested users of your joboffers : 
+![interested](https://github.com/hamzalach02/portfolio/assets/121760220/7755c49a-dbb6-4158-852e-3caae0be8dc4)
+and you can see a user profile and his jobffers and the job offers he'is interested in : 
+![userprofile](https://github.com/hamzalach02/portfolio/assets/121760220/098a02a6-77fa-48ac-8d2a-a2718da0c176)
 
 
+
+## Requirements
+To run this project, ensure you have the following:
+
+-Spring Boot IDE (e.g., IntelliJ IDEA) for backend development.
+-MySQL database (e.g., set up using Docker as described above).
+-Node.js and yarn for frontend dependencies management and development.
