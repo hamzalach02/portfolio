@@ -45,9 +45,9 @@ To setup this project:
    ```
 2. Set up MySQL database:
 
-Use Docker to create a MySQL container:
+for example I used Docker to create a MySQL container:
 
-bash
+
 ```bash
 docker run -d --name portfolio-mysql -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_DATABASE=portfolio -p 3306:3306 mysql:8.0
 ```
