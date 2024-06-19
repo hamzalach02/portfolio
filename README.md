@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to this hacking tutorial (hacking is illegal).
+Welcome to this project ,portfolio is aweb application developed with spring boot and react native.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,7 +10,7 @@ Welcome to this hacking tutorial (hacking is illegal).
 
 ## Overview
 
-You have created a web application using React for the front end and Spring Boot for the back end, implementing JWT (JSON Web Token) authentication. This application allows users to authenticate, create job offers, and express interest in job offers. Users have detailed profiles including email, password, full name, website, birthdate, job title, education degree, and skills. Job offer creators can view profiles of users interested in their job offers, enabling effective candidate tracking.
+I have created a web application using React for the front end and Spring Boot for the back end, implementing JWT (JSON Web Token) authentication. This application allows users to authenticate, create job offers, and express interest in job offers. Users have detailed profiles including email, password, full name, website, birthdate, job title, education degree, and skills. Job offer creators can view profiles of users interested in their job offers, enabling effective candidate tracking.
 
 ### Features
 
