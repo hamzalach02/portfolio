@@ -31,7 +31,6 @@ The application architecture includes:
 
 - **Front End**: Developed with React for responsive and interactive user interfaces.
 - **Back End**: Built on Spring Boot to handle business logic, API endpoints, and database interactions.
-![arch](https://github.com/hamzalach02/portfolio/assets/121760220/e58ca6a4-ed7c-472c-8bb0-74610a136f45)
 - **JWT Authentication**: Ensures secure user sessions and protects API endpoints.
 - ![jwtt](https://github.com/hamzalach02/portfolio/assets/121760220/cf4e29d5-6361-41a1-8ecd-4c7b86f17a9a)
 
